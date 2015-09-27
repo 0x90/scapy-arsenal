@@ -1,0 +1,78 @@
+[submodule "scapy-nflog-capture"]
+	path = scapy-nflog-capture
+	url = https://github.com/mk-fg/scapy-nflog-capture
+[submodule "scapy-to-api"]
+	path = scapy-to-api
+	url = https://github.com/thepacketgeek/scapy-to-api
+[submodule "bluefruit-scapy"]
+	path = bluefruit-scapy
+	url = https://github.com/sysdream/bluefruit-scapy
+[submodule "scapy-ssl_tls"]
+	path = scapy-ssl_tls
+	url = https://github.com/tintinweb/scapy-ssl_tls
+[submodule "scapy-http"]
+	path = scapy-http
+	url = https://github.com/invernizzi/scapy-http
+[submodule "osmocombb-scapy"]
+	path = osmocombb-scapy
+	url = https://github.com/moros/osmocombb-scapy
+[submodule "scapy-ssh"]
+	path = scapy-ssh
+	url = https://github.com/tintinweb/scapy-ssh
+[submodule "Honeypot-Scapy"]
+	path = Honeypot-Scapy
+	url = https://github.com/quack1/Honeypot-Scapy
+[submodule "pystack"]
+	path = pystack
+	url = https://github.com/RobinDavid/pystack
+[submodule "scapy-knife"]
+	path = scapy-knife
+	url = https://github.com/mrt-k/scapy-knife
+[submodule "TorPylle"]
+	path = TorPylle
+	url = https://github.com/cea-sec/TorPylle
+[submodule "ScapyScan"]
+	path = ScapyScan
+	url = https://github.com/ganye/ScapyScan
+[submodule "Scapy-RAguard"]
+	path = Scapy-RAguard
+	url = https://github.com/caskings/Scapy-RAguard
+[submodule "DNS-Cache-Poisoning-with-Scapy"]
+	path = DNS-Cache-Poisoning-with-Scapy
+	url = https://github.com/henryw14/DNS-Cache-Poisoning-with-Scapy
+[submodule "scapyarpspoof"]
+	path = scapyarpspoof
+	url = https://github.com/d4rkcat/scapyarpspoof
+[submodule "scapytojson"]
+	path = scapytojson
+	url = https://github.com/dgunter/scapytojson
+[submodule "building-network-tools-with-scapy"]
+	path = building-network-tools-with-scapy
+	url = https://github.com/markandrewj/building-network-tools-with-scapy
+[submodule "hijack"]
+	path = hijack
+	url = https://github.com/0x0d/hijack
+[submodule "PPPoESession-Python"]
+	path = PPPoESession-Python
+	url = https://github.com/theclam/PPPoESession-Python
+[submodule "scapy-toolkit"]
+	path = scapy-toolkit
+	url = https://github.com/TmmmmmR/scapy-toolkit
+[submodule "scapy-dns-ninja"]
+	path = scapy-dns-ninja
+	url = https://github.com/emileaben/scapy-dns-ninja
+[submodule "dns_hijacker"]
+	path = dns_hijacker
+	url = https://github.com/ho1ger/dns_hijacker
+[submodule "Attack"]
+	path = Attack
+	url = https://github.com/muzixing/Attack
+[submodule "arp-dns-spoof"]
+	path = arp-dns-spoof
+	url = https://github.com/devleoper/arp-dns-spoof
+[submodule "scapy3k"]
+	path = scapy3k
+	url = https://github.com/phaethon/scapy
+[submodule "buherablog-packet-fu"]
+	path = buherablog-packet-fu
+	url = https://github.com/v-p-b/buherablog-packet-fu
