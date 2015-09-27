@@ -76,3 +76,9 @@
 [submodule "buherablog-packet-fu"]
 	path = buherablog-packet-fu
 	url = https://github.com/v-p-b/buherablog-packet-fu
+[submodule "MulitFi"]
+	path = MulitFi
+	url = https://github.com/shpala/MulitFi
+[submodule "scapyHunt"]
+	path = scapyHunt
+	url = https://github.com/JamesSullivan1/scapyHunt
