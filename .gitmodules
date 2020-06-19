@@ -82,3 +82,6 @@
 [submodule "scapyHunt"]
 	path = scapyHunt
 	url = https://github.com/JamesSullivan1/scapyHunt
+[submodule "PythonScapyDot11_TheBook"]
+	path = PythonScapyDot11_TheBook
+	url = https://github.com/yadox666/PythonScapyDot11_TheBook
